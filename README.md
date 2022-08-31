@@ -3,7 +3,7 @@
 <br>
  
 <div>
-	<img height="180px" src="https://github-readme-stats.vercel.app/api?username=CaiqueTech&show_icons=true&include_all_commits=true&theme=tokyonight" />
+	<img height="180px" src="https://github-readme-stats.vercel.app/api?username=CaiqueTech&show_icons=true&theme=tokyonight" />
 	<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueTech&theme=tokyonight" />
 </div>
   
