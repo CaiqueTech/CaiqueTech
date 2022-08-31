@@ -3,8 +3,8 @@
 <br>
  
 <div>
-	<img src="https://github-readme-stats.vercel.app/api?username=CaiqueTech&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueTech&layout=compact&theme=tokyonight" />
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaiqueTech&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueTech&layout=compact&theme=tokyonight" />
 </div>
   
 ##
