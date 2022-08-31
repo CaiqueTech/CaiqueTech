@@ -21,7 +21,7 @@
 ##
 <br>
 
-[![Blog](https://img.shields.io/website?label=caiquemorales.netlify.app.com&style=for-the-badge&url=https://caiquemorales.netlify.app/)](https://caiquemorales.netlify.app)
+[![Blog](https://img.shields.io/website?label=caiquemorales.netlify.app&style=for-the-badge&url=https://caiquemorales.netlify.app/)](https://caiquemorales.netlify.app)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-morales/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caique_brad/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.caiquemorales@gmail.com)
